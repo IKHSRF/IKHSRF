@@ -12,7 +12,7 @@ I love Mobile App Development, but I also like doing other things too. Here are 
 - ⚡ Fun fact: I love to code
 
 ## My Stats
-![Ikhsan github stats](https://github-readme-stats.vercel.app/api?username=ikhsrf&count_private=true&theme=dark&show_icons=true) 
+![Ikhsan github stats](https://github-readme-stats.vercel.app/api?username=ikhsrf&count_private=true&theme=synthwave&show_icons=true) 
 
 ### Connect with me:
 
