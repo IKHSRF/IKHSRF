@@ -13,6 +13,8 @@ I love Mobile App Development, but I also like doing other things too. Here are 
 
 ## My Stats
 ![Ikhsan github stats](https://github-readme-stats.vercel.app/api?username=ikhsrf&count_private=true&theme=synthwave&show_icons=true) 
+<br />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ikhsrf&langs_count=8)](https://github.com/ikhsrf/github-readme-stats)
 
 ### Connect with me:
 
