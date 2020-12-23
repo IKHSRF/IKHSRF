@@ -11,6 +11,9 @@ I love Mobile App Development, but I also like doing other things too. Here are 
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to code
 
+## My Stats
+![Ikhsan github stats](https://github-readme-stats.vercel.app/api?username=ikhsrf&count_private=true&theme=dark&show_icons=true) 
+
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
