@@ -8,7 +8,7 @@ I love Mobile App Development, but I also like doing other things too. Here are 
 
 - 🌱 I’m currently learning android development with flutter
 - 👯 I’m looking to collaborate with other developer around the world
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to code
 
 ## My Stats
