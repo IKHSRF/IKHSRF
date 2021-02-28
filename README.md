@@ -1,8 +1,8 @@
 ### Hi there, I'm Ikhsan Arfian Nugraha 👋
 I love Mobile App Development, but I also like doing other things too. Here are a few: <br/>
-&nbsp;&nbsp;&nbsp;1.Backend Development, It's fun playing with data. <br/>
-&nbsp;&nbsp;&nbsp;2.Game Development using Unity, because I love games <br/>
-&nbsp;&nbsp;&nbsp;3.Write an article on the medium, because I love sharing to the community
+&nbsp;&nbsp;&nbsp;1. Backend Development, It's fun playing with data. <br/>
+&nbsp;&nbsp;&nbsp;2. Game Development using Unity, because I love games <br/>
+&nbsp;&nbsp;&nbsp;3. Write an article on the medium and quora, because I love sharing to the community
 
 ## I'm a Gamer, Developer, and Student!!
 
