@@ -4,9 +4,10 @@ I love Mobile App Development, but I also like doing other things too. Here are 
 &nbsp;&nbsp;&nbsp;2. Game Development using Unity, because I love games <br/>
 &nbsp;&nbsp;&nbsp;3. Write an article on the medium and quora, because I love sharing to the community
 
-## I'm a Gamer, Developer, and Student!!
+## Developer By Day, Gamer By Night!!
 
-- 🌱 I’m currently learning android development with flutter
+- 🌱 I’m currently learning mobile development with flutter & kotlin
+- �  I’m currently learning machine learning and backend development with scala
 - 👯 I’m looking to collaborate with other developer around the world
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to code
