@@ -1,6 +1,6 @@
 # Hello there! - I'm Ikhsan Arfian Nugraha 👋
 
-[![Website](https://img.shields.io/website?down_color=%236c7a89&style=for-the-badge&up_color=%23019875&up_message=visit&url=https://ikhsanarfian.com)](https://ikhsanarfian.com/)
+[![Website](https://img.shields.io/website?down_color=%236c7a89&style=for-the-badge&up_color=%23019875&up_message=visit&url=https://www.ikhsanarfian.site)](https://www.ikhsanarfian.site/)
 [![Twitter](https://img.shields.io/twitter/follow/jamesjanscript?color=%231DA1F2&style=for-the-badge)](https://twitter.com/jamesjanscript)
 
 I love Mobile App Development, but I also like doing other things too. Here are a few: <br/>
